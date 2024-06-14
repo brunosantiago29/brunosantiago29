@@ -2,7 +2,7 @@
 
 #  Bruno Santiago
 ## Hello, Devs!!👋                                                                                                                                                                                                                                         <img src="https://github.com/brunosantiago29/brunosantiago29/blob/main/octocat-1718385036737.png" width="200" height="400"/>
-![]([(https://github.com/brunosantiago29/brunosantiago29/blob/main/octocat-1718385036737.png" width="200" height="400")])
+![(https://github.com/brunosantiago29/brunosantiago29/blob/main/octocat-1718385036737.png" width="200" height="400")]
 
 ## Bem vindo ao meu perfil GitHub  
 

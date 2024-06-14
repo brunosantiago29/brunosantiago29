@@ -10,7 +10,7 @@
 <!-- **brunosantiago29/BrunoFullStack** `README.md`. -->
 
 - 🔭 Atualmente estou trabalhando em ... Desenvolvimento full stack
-- 🌱 Atualmente estou aprendendo ... javascript, typescript, nodejs, react, aprendendo sempre!                                <img src="[URL_da_Imagem](https://github.com/brunosantiago29/brunosantiago29/blob/main/octocat-1718385036737.png ) width="100" height="100"/ >
+- 🌱 Atualmente estou aprendendo ... javascript, typescript, nodejs, react, aprendendo sempre!                                <img src="[URL_da_Imagem](https://github.com/brunosantiago29/brunosantiago29/blob/main/octocat-1718385036737.png)" width="40" height="40"/>
 - 🤔 Estou procurando ajuda com trabalhos 
 - 💬 Pergunte-me sobre 
 - 📫 Como entrar em contato comigo: canalbrunosantiago@gmail.com

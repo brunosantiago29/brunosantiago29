@@ -7,7 +7,7 @@
 
 
 
-**brunosantiago29/BrunoFullStack** `README.md`.
+<!-- **brunosantiago29/BrunoFullStack** `README.md`. -->
 
 - 🔭 Atualmente estou trabalhando em ... Desenvolvimento full stack
 - 🌱 Atualmente estou aprendendo ... javascript, typescript, nodejs, react, aprendendo sempre!

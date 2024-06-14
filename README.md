@@ -9,7 +9,7 @@
 
 <!-- **brunosantiago29/BrunoFullStack** `README.md`. -->
 ##  
-<img src="https://github.com/brunosantiago29/brunosantiago29/blob/main/octocat-1718385036737.png" width="600" height="200"/>
+<img src="https://github.com/brunosantiago29/brunosantiago29/blob/main/octocat-1718385036737.png" width="200" height="600"/>
 
 - 🔭 Atualmente estou trabalhando em ... Desenvolvimento full stack
 - 🌱 Atualmente estou aprendendo ... javascript, typescript, nodejs, react, aprendendo sempre!                                

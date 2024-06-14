@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/brunosantiago29/brunosantiago29/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/brunosantiago29/brunosantiago29/blob/output/github-contribution-grid-snake.svg) -->
 
 #  Bruno Santiago
 ## Hello, Devs!!👋
